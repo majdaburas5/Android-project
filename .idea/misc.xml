@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_addcars.xml" value="0.2" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_cars_show.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_deletecars.xml" value="0.264" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_log_in2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_man.xml" value="0.264" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_manager.xml" value="0.16" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/activity_user_daf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/adb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/content_nav_bar.xml" value="0.228125" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/content_users_daf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/fragment_gallery.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/fragment_home.xml" value="0.228125" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/hatsaga.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/hatsaga1.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/hh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/list.xml" value="1.378125" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/layout/nav_header_nav_bar.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/WIN10/AndroidStudioProjects/project2/app/src/main/res/menu/nav_bar.xml" value="0.24259259259259258" />
+        <entry key="app/src/main/res/layout/activity_addcars.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/activity_deletecars.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/activity_log_in2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/activity_man.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/activity_nav_bar.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/content_nav_bar.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/hatsaga.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/hatsaga1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_header_nav_bar.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
